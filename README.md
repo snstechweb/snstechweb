@@ -1,7 +1,7 @@
 # 🚀 SNS Tech
 
 <p align="center">
-  <img src="assets/SNS-TECH-Icon-final-navy-bg-scaled.png" alt="SNS Tech Logo" width="180" style="border-radius:20px;"/>
+  <img src="assets/SNS-TECH-Icon-final-navy-bg-scaled.png" alt="SNS Tech Logo" width="180" style="border-radius: 50%;"/>
 </p>
 
 ### *Welcome to the Future*  
