@@ -1,4 +1,4 @@
-# 🚀 SNS Tech Websupport
+# 🚀 SNS Tech
 
 ### *Welcome to the Future*  
 #### _Impactful • Transformative • Revolutionary_
@@ -10,7 +10,7 @@
 
 ## 💡 About Us
 
-At **SNS Tech Websupport**, we build cutting-edge digital solutions designed to push boundaries and redefine what's possible.  
+At **SNS Tech**, we build cutting-edge digital solutions designed to push boundaries and redefine what's possible.  
 
 We specialize in creating **high-performance web applications**, **scalable systems**, and **innovative digital experiences** that empower businesses to thrive in the modern world.
 
