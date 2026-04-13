@@ -1,5 +1,9 @@
 # 🚀 SNS Tech
 
+<p align="center">
+  <img src="assets/logo.png" alt="SNS Tech Logo" width="180"/>
+</p>
+
 ### *Welcome to the Future*  
 #### _Impactful • Transformative • Revolutionary_
 
